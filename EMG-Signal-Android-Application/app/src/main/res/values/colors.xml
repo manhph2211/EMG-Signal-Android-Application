@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#005e90</color>
+    <color name="colorPrimaryDark">#002768</color>
+    <color name="dialog">#2763a3</color>
+    <color name="colorAccent">#6dd3fb</color>
+    <color name="yellow">#ffff00</color>
+    <color name="ap_black">#000</color>
+    <color name="ap_charcoal">#111</color>
+    <color name="ap_gray">#888</color>
+    <color name="ap_transparent">#00000000</color>
+    <color name="ap_white">#FFF</color>
+    <color name="off_white">#EEE</color>
+</resources>
